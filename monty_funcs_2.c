@@ -1,7 +1,7 @@
 /*
  * File: monty_funcs_2.c
  * Auth: Alfred Kobby
- *   	Oshewolo Martins
+ * Oshewolo Martins
  */
 
 #include "monty.h"
