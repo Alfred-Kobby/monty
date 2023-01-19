@@ -4,6 +4,8 @@
  *       oshewolo Martins
  */
 
+
+#define  _GNU_SOURCE
 #include "monty.h"
 #include <string.h>
 
